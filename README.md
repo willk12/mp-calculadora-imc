@@ -48,3 +48,7 @@ export default tseslint.config({
   },
 })
 ```
+
+## Live Demo  
+You can check out the live version of this project here:  
+🔗 [Click to open](https://imccalculatorwill.netlify.app/)  
